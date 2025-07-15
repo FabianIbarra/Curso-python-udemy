@@ -15,7 +15,7 @@ class CoffeeMaker:
     
     def __boil_water(self):
         """Método privado que simula hervir agua."""
-        print(f"Herviendo agua en la {self.brand} {self.model}...")
+        print(f"Hirviendo agua en la {self.brand} {self.model}...")
 
     def __mix(self):
         """Método privado que simula mezclar el café."""
