@@ -1,0 +1,2 @@
+[2025-07-15 11:11:46] - Error en base de datos
+[2025-07-15 11:12:21] Error en servidor
